@@ -1,6 +1,6 @@
 # Análise de Dados de Vendas
 
-Este repositório contém uma análise de dados de vendas, desenvolvida como parte de um projeto do curso de Ciência de Dados oferecido pela Compass UOL. O objetivo do projeto é aplicar técnicas de análise exploratória de dados (EDA) para entender padrões de vendas e gerar insights relevantes para o negócio.
+Este repositório contém uma [análise de dados de vendas](https://github.com/marciofag/py-analise-dados-vendas/blob/main/analise_dados_vendas.ipynb), desenvolvida como parte de um projeto do curso de Ciência de Dados oferecido pela Compass UOL. O objetivo do projeto é aplicar técnicas de análise exploratória de dados (EDA) para entender padrões de vendas e gerar insights relevantes para o negócio.
 
 ## 📊 Descrição do Projeto
 
