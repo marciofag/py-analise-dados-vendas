@@ -21,6 +21,17 @@ O projeto foi implementado em Python utilizando o Jupyter Notebook, e faz uso de
 - **Matplotlib** e **Seaborn**: Bibliotecas utilizadas para criação de visualizações gráficas.
 - **NumPy**: Biblioteca utilizada para operações numéricas.
 
+## 📊 Visão Geral da Análise
+O notebook realiza uma análise detalhada dos dados de vendas, incluindo:
+
+- Limpeza e tratamento de dados ausentes.
+- Análise descritiva dos principais indicadores.
+- Visualizações que mostram padrões de vendas ao longo do tempo.
+- Identificação de produtos mais vendidos e sazonalidade.
+
+## 📈 Resultados e Conclusões
+Os resultados da análise oferecem uma visão detalhada das tendências de vendas, permitindo uma melhor compreensão dos fatores que influenciam o desempenho de vendas.
+
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, por favor, abra uma issue ou envie um pull request.
