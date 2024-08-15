@@ -31,5 +31,5 @@ Para dúvidas ou sugestões, entre em contato pelo [mfag.rj@gmail.com](mailto:mf
 
 ---
 
-Projeto desenvolvido por [Márcio Henrique Cardoso Fagundes](https://github.com/marciofag) durante o curso de Ciência de Dados na Compass UOL.
+Projeto desenvolvido por [Márcio Fagundes](https://github.com/marciofag) durante o curso de Ciência de Dados na Compass UOL.
 
